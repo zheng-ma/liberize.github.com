@@ -15,16 +15,16 @@ redcarpet:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : liberize's blog
+title : mz's blog
 tagline: Free as the wind.
 author :
-  name : liberize
-  email : liberize@gmail.com
-  github : liberize
-  twitter : liberize
-  weibo : liberize
-  v2ex : liberize
-  googleplus : 118314345733357791088
+  name : mz
+  email : zheng.ma1@outlook.com
+  github : zheng-ma
+  twitter : 
+  weibo : 
+  v2ex : 
+  #googleplus : 118314345733357791088
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -35,8 +35,8 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://liberize.github.io
-cdn_url : http://liberize.github.io
+production_url : http://zheng-ma.github.io
+cdn_url : http://zheng-ma.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -96,9 +96,9 @@ JB :
   comments :
     provider : disqus
     duoshuo :
-      short_name : liberize
+      short_name : mz
     disqus :
-      short_name : liberize
+      short_name : mz
     livefyre :
       site_id : 123
     intensedebate :
